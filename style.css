@@ -1,0 +1,11 @@
+nav > li{
+    list-style: none;
+    display: inline;
+    padding: 1rem;
+}
+
+body {
+    background-color: #031a1c;
+    color: #f1fdfe;
+    font-family: "poppins";
+}
