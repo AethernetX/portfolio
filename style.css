@@ -84,6 +84,7 @@ body {
 
     .navbar-links li {
         text-align: center;
+        border-radius: 0.5rem;
     }
 
     .navbar-links li:hover {
@@ -97,4 +98,12 @@ body {
     .navbar-links.active {
         display: flex;
     }
+}
+
+.main-header {
+    font-size: 72px;
+    background: -webkit-linear-gradient(45deg,#58e2ee, #ee58a3);
+    -webkit-background-clip: text;
+    -webkit-text-fill-color: transparent;
+    width: max-content;
 }

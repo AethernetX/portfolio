@@ -1,0 +1,4 @@
+small projects idea
+1. Making minesweeper clone
+2. How did I make a drawing app
+3. ASCII donut
