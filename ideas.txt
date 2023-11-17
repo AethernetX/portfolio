@@ -1,9 +1,14 @@
 small projects idea
 1. Making minesweeper clone -- done! (extension: make it infinite)
-2. How did I make a drawing app
+2. How did I make a drawing app -- done! (extension: add to html)
 3. ASCII donut
 4. Markdown to HTML javascript converter
 5. add spotify integration for game
 6. A web crawler that makes a tree of every link in wikipedia
 7. A card game in which you can make up the rules and cards as you go along 
 8. Make a task management tool that allows users to access from other sites.
+9. Create a fractal art generator but have certain features such as editing shapes, choosing a colour gradient, ability to change shape, save images, choose canvas size and finally how big the pattern can be.
+10. ASCII horror game using computer generated noise.
+11. quote ASCII generator in P5.JS? then a button to download the said picture.
+12. ASCII metaballs (in terminal) with velocity maybe
+13. Do something interesting with three.JS
